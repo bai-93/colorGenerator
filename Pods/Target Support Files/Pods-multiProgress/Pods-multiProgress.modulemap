@@ -1,0 +1,6 @@
+framework module Pods_multiProgress {
+  umbrella header "Pods-multiProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}
